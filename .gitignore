@@ -1,0 +1,12 @@
+# Ignore Maven build directory
+/target/
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# OS junk files
+.DS_Store
+
+# Logs
+*.log
